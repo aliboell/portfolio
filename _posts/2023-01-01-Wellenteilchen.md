@@ -17,11 +17,3 @@ Wellenteilchen is a series of musical machines that draw upon techniques of simu
 ![Wellenteilchen]({{ site.baseurl }}/assets/2023-01-01-Wellenteilchen-03.jpg)
 
 ![Wellenteilchen]({{ site.baseurl }}/assets/2023-01-01-Wellenteilchen-04.jpg)
-
-## testing URLs
-
-![Wellenteilchen]({{ site.url }}/assets/2023-01-01-Wellenteilchen-04.jpg)
-
-![Wellenteilchen]({{ site.baseurl }}/assets/2023-01-01-Wellenteilchen-04.jpg)
-
-![Wellenteilchen]({{ '/assets/2023-01-01-Wellenteilchen-04.jpg' | relative_url }})
