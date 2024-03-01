@@ -6,20 +6,22 @@ featured: Yes
 permalink: wellenteilchen
 ---
 
-![Wellenteilchen](/assets/2023-01-01-Wellenteilchen-00.jpg)
+![Wellenteilchen]({{ site.baseurl }}/assets/2023-01-01-Wellenteilchen-00.jpg)
 
 Wellenteilchen is a series of musical machines that draw upon techniques of simulation to produce sound scapes and musical expressions that play with notions of *zoopomorphization* and emergence.
 
-![Wellenteilchen](/assets/2023-01-01-Wellenteilchen-01.jpg)
+![Wellenteilchen]({{ site.baseurl }}/assets/2023-01-01-Wellenteilchen-01.jpg)
 
-![Wellenteilchen](/assets/2023-01-01-Wellenteilchen-02.jpg)
+![Wellenteilchen]({{ site.baseurl }}/assets/2023-01-01-Wellenteilchen-02.jpg)
 
-![Wellenteilchen](/assets/2023-01-01-Wellenteilchen-03.jpg)
+![Wellenteilchen]({{ site.baseurl }}/assets/2023-01-01-Wellenteilchen-03.jpg)
 
-![Wellenteilchen](/assets/2023-01-01-Wellenteilchen-04.jpg)
+![Wellenteilchen]({{ site.baseurl }}/assets/2023-01-01-Wellenteilchen-04.jpg)
 
 ## testing URLs
 
-![Wellenteilchen](/assets/2023-01-01-Wellenteilchen-04.jpg)
-![Wellenteilchen]({{ site.baseurl }} /assets/2023-01-01-Wellenteilchen-04.jpg)
-![Wellenteilchen]({{ 'assets/2023-01-01-Wellenteilchen-04.jpg' | relative_url }})
+![Wellenteilchen]({{ site.url }}/assets/2023-01-01-Wellenteilchen-04.jpg)
+
+![Wellenteilchen]({{ site.baseurl }}/assets/2023-01-01-Wellenteilchen-04.jpg)
+
+![Wellenteilchen]({{ '/assets/2023-01-01-Wellenteilchen-04.jpg' | relative_url }})
