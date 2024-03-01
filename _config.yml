@@ -22,7 +22,7 @@ title: Ali Boell
 email: hello@alidigital.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ali Boell
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "portfolio" # "" # the subpath of your site, e.g. /blog ( empty when using dedicated URL )
 #url: "https://alidigital.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
